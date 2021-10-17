@@ -1,0 +1,98 @@
+    1  ls
+    2  cd root
+    3  ls
+    4  cd server_lesson/
+    5  ls
+    6  cd README.md 
+    7  ls
+    8  vi README.md 
+    9  git commit -m 'first commit'
+   10  git status
+   11  git log
+   12  git commit 'first commit'
+   13  git status
+   14  git init
+   15  git add .
+   16  git add.
+   17  git add
+   18  git status
+   19  git commit -m 'first'
+   20  git config --global user.email mmmasahiro1202@gmail.com
+   21  $git config --global user.email "mmmasahiro1202@gmail.com"
+   22  git config --global user.email "mmmasahiro1202@gmail.com"
+   23  git config --global user.email mmmasahiro1202@gmail.com git config --global user.name masahiro murata
+   24  git commit -m 'first'
+   25  git log
+   26  mkdir linux_practice2/documents
+   27  mkdir -p linux_practice2/documents
+   28  ls
+   29  cd linux_practice2
+   30  ls
+   31  touch gizumo0{1..50}.md
+   32  ls
+   33  cd /
+   34  ls
+   35  cd root
+   36  ls
+   37  cd server_lesson/
+   38  ls
+   39  rm -r linux_practice2
+   40  y
+   41  ls
+   42  mkdir linux_practice2/documents
+   43  mkdir documents
+   44  ls
+   45  rm -r documents
+   46  mkdir -p linux_practice2/documents
+   47  cd linux_practice2
+   48  ls
+   49  touch gizumo{1..50}.md
+   50  ls
+   51  cd root/server_lesson
+   52  ls
+   53  cd /root
+   54  ls
+   55  cd server_lesson/
+   56  ls
+   57  rm -r linux_practice2
+   58  ls
+   59  cd linux_practice2
+   60  ls
+   61  cd ../
+   62  ls
+   63  rm -r linux_practice2
+   64  ls
+   65  mkdir -p linux_practice2/documents
+   66  ls
+   67  cd linux_practice2
+   68  ls
+   69  mkdir gizumo{01..50}.md
+   70  ls
+   71  rm gizumo{41..50}.md
+   72  ls
+   73  rm -r gizumo{01..50}.md
+   74  touch gizumo{01..50}.md
+   75  ls
+   76  cd ../
+   77  ls
+   78  cd linux_practice2
+   79  mkdir trash 
+   80  ls
+   81  mv gizumo{01..40}.md trash
+   82  ls
+   83  cd trash
+   84  ls
+   85  cd ../
+   86  touch .gitignore
+   87  ls
+   88  cd .gitignore
+   89  ls
+   90  vi .gitignore 
+   91  ls
+   92  cd ../
+   93  ls
+   94  cd linux_practice2
+   95  ls
+   96  cd trash
+   97  ls
+   98  history 300
